@@ -12,8 +12,8 @@ Die Aixo impulse GmbH stellt die drei internen (self hosted) Runner, concierge, 
 
 | Runner    | Labels                                                    |
 | --------- | --------------------------------------------------------- |
-| Concierge | `self-hosted`, `Linux`, `x64`, `aixo`, `CI`, `dependabot` |
-| Aragorn   | `self-hosted`, `Linux`, `x64`, `aixo`, `CI`, `dependabot` |
-| Bosmang   | `self-hosted`, `Linux`, `x64`, `aixo`, `CI`, `dependabot` |
+| Concierge | `self-hosted`, `Linux`, `X64`, `aixo`, `CI`, `dependabot` |
+| Aragorn   | `self-hosted`, `Linux`, `X64`, `aixo`, `CI`, `dependabot` |
+| Bosmang   | `self-hosted`, `Linux`, `X64`, `aixo`, `CI`, `dependabot` |
 
 Sie sind über das Label `dependabot` so konfiguriert, dass der GitHub Security Service `dependabot` auf den Runnern arbeiten und automatisiert Updates der Dependencies eines Projekts per Pull Request einspielen kann.
